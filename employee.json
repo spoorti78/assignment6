@@ -1,0 +1,44 @@
+{
+"Employees" : [
+{
+"Employee" :"1",
+"Name":"Spoorti",
+"DOB" : "19/07/1998",
+"height": "5.1",
+"city": "hubli",
+"state": "karnataka"
+},
+{
+"Employee" :"2",  
+"Name":"prerana",
+"DOB" : "19/08/2000",
+"height": "4.11",
+"city": "hubli",
+"state": "karnataka"
+},
+{
+"Employee" :"3",  
+"Name":"guddu",
+"DOB" : "19/10/2000",
+"height": "5.4",
+"city": "hubli",
+"state": "karnataka"
+},
+{
+"Employee" :"4", 
+"Name":"arush",
+"DOB" : "9/01/1997",
+"height": 5.11,
+"city": "hubli",
+"state": "karnataka"
+},
+{
+"Employee" :"5",
+"Name":"adi",
+"DOB" : "19/07/2000",
+"height": 5.1,
+"city": "hubli",
+"state": "karnataka"
+}
+]
+}
